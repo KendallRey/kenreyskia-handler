@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/money_summary"
+        android:title="@string/menuSummary" />
+    <item
+        android:id="@+id/money_addMoney"
+        android:title="@string/menuAddMoney" />
+
+    <item
+        android:id="@+id/money_logout"
+        android:title="@string/menuLogout" />
+</menu>

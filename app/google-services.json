@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37681468845",
+    "project_id": "krhandler-5cdad",
+    "storage_bucket": "krhandler-5cdad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37681468845:android:155b95c424269304b1fd24",
+        "android_client_info": {
+          "package_name": "com.example.krhandler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37681468845-67eham5ku6c1c35notjbqairhvoi0q73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb6vtyLqVF_YV7ixbExTbtE8Hyj70U4SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37681468845-67eham5ku6c1c35notjbqairhvoi0q73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
